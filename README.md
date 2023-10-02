@@ -3,7 +3,7 @@ Recept opdracht
 
 # Surstromming
 
-![Surstromming](C:\Users\artur\f1m1\pvaardig\les06\skil_markdown_les\surs.jpg)
+![Surstromming](surs.jpg)
 
 ## Benodigheden
 
