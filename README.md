@@ -29,3 +29,5 @@ Make sure to also have a bucket for reserved brine.
 7. Move it indoors to a cool, dark place to let the fermentation continue until mid-August. Surstromming experts recommend that it be kept at a temperature of 63-65ºF(17-18ºC).
 
 8. Finished.
+
+[how to make surstromming - click here](https://www.wikihow.com/Make-Surstromming)
